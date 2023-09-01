@@ -1,2 +1,3 @@
 # prince-first
-this is my first Repository
+This is my first Repository
+Auther -prince kumar
